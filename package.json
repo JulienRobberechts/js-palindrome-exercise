@@ -1,0 +1,14 @@
+{
+  "name": "js-palindrome-exercise",
+  "version": "1.0.0",
+  "description": "check a palindrome",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/cli"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
