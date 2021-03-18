@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/JulienRobberechts/js-palindrome-exercise/actions/workflows/nodejs.yml/badge.svg)](https://github.com/JulienRobberechts/js-palindrome-exercise/actions/workflows/nodejs.yml)
 # Js palindrome Exercise
 
 Javascript exercise.
